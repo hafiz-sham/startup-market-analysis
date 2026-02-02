@@ -31,7 +31,7 @@ The analysis merges two distinct datasets to create a unified view of the ecosys
 
 Analysis: Correlation heatmap, scatter plots, bar charts
 
-Key Insights & Methodology
+# Key Insights & Methodology
 * Valuation Analysis: Calculated "Revenue Multiples" to compare hype vs. reality across sectors. (e.g., AI/ML startups showed higher mean multiples than the other industries, indicating high future growth expectations).
 * Macro-Correlation: Merged datasets to test the hypothesis that higher national R&D expenditure leads to higher average startup revenues.
 * Sector Dominance: Analyzed funding distribution to find that countries like Singapore show high efficiency in Fintech and AI capital deployment.

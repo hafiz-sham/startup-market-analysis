@@ -17,8 +17,8 @@ Investors and policymakers often look at startups in isolation. This project see
 The analysis merges two distinct datasets to create a unified view of the ecosystem:
 
 ## Dataset of startups, sourced from Kaggle.
-Key Metrics: funding_amount_usd, estimated_valuation_usd, revenue, industry.
-Preprocessing: Removed unneccesary columns and engineered a Revenue Multiple metric (Valuation / Revenue) to gauge market sentiment.
+* Key Metrics: `funding_amount_usd`, `estimated_valuation_usd`, `estimated_revenue_usd`, `industry`.
+* Preprocessing: Removed unneccesary columns and engineered a Revenue Multiple metric (Valuation / Revenue) to gauge market sentiment.
 
 ## Macroeconomic Indicators, sourced from World Bank website
 - Key Metrics: GDP_per_capita, Inflation_CPI, R&D_Expenditure, Unemployment_Rate.
